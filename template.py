@@ -8,7 +8,7 @@ project_name = "studperform"
 
 file_list = [
     ".github/workflows/.gitkeep",
-    f" src/{project_name}/__init__.py",             #constructor file
+    f"src/{project_name}/__init__.py",             #constructor file
     f"src/{project_name}/components/__init__.py",   
     f"src/{project_name}/utils/__init__.py",
     f"src/{project_name}/utils/utils.py",          #
